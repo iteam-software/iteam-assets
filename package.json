@@ -1,0 +1,13 @@
+{
+  "name": "iteam-assets",
+  "version": "1.0.0",
+  "description": "Asset repository for gh-pages hosting",
+  "scripts": {
+    "deploy": "gh-pages -d assets"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
