@@ -8,6 +8,6 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "gh-pages": "^1.0.0"
+    "gh-pages": "^5.0.0"
   }
 }
